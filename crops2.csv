@@ -1,0 +1,265 @@
+Rainfall,Soil,Temperature,Crop
+600.0,black,20.0,cotton
+640.0,black,20.7,cotton
+680.0,black,21.4,cotton
+720.0,black,22.099999999999998,cotton
+760.0,black,22.799999999999997,cotton
+800.0,black,23.499999999999996,cotton
+840.0,black,24.199999999999996,cotton
+880.0,black,24.899999999999995,cotton
+920.0,black,25.599999999999994,cotton
+960.0,black,26.299999999999994,cotton
+1000.0,black,26.999999999999993,cotton
+600.0,sandy loam,20.0,soyabean
+604.0,sandy loam,21.0,soyabean
+608.0,sandy loam,22.0,soyabean
+612.0,sandy loam,23.0,soyabean
+616.0,sandy loam,24.0,soyabean
+620.0,sandy loam,25.0,soyabean
+624.0,sandy loam,26.0,soyabean
+628.0,sandy loam,27.0,soyabean
+632.0,sandy loam,28.0,soyabean
+636.0,sandy loam,29.0,soyabean
+640.0,sandy loam,30.0,soyabean
+1750.0,clayey loam,20.0,paddy
+1875.0,clayey loam,20.8,paddy
+2000.0,clayey loam,21.6,paddy
+2125.0,clayey loam,22.400000000000002,paddy
+2250.0,clayey loam,23.200000000000003,paddy
+2375.0,clayey loam,24.000000000000004,paddy
+2500.0,clayey loam,24.800000000000004,paddy
+2625.0,clayey loam,25.600000000000005,paddy
+2750.0,clayey loam,26.400000000000006,paddy
+2875.0,clayey loam,27.200000000000006,paddy
+3000.0,clayey loam,28.000000000000007,paddy
+600.0,sandy loam,18.0,maize
+650.0,sandy loam,18.8,maize
+700.0,sandy loam,19.6,maize
+750.0,sandy loam,20.400000000000002,maize
+800.0,sandy loam,21.200000000000003,maize
+850.0,sandy loam,22.000000000000004,maize
+900.0,sandy loam,22.800000000000004,maize
+950.0,sandy loam,23.600000000000005,maize
+1000.0,sandy loam,24.400000000000006,maize
+1050.0,sandy loam,25.200000000000006,maize
+1100.0,sandy loam,26.000000000000007,maize
+800.0,clayey loam,20.0,maize
+820.0,clayey loam,20.4,maize
+840.0,clayey loam,20.799999999999997,maize
+860.0,clayey loam,21.199999999999996,maize
+880.0,clayey loam,21.599999999999994,maize
+900.0,clayey loam,21.999999999999993,maize
+920.0,clayey loam,22.39999999999999,maize
+940.0,clayey loam,22.79999999999999,maize
+960.0,clayey loam,23.19999999999999,maize
+980.0,clayey loam,23.599999999999987,maize
+1000.0,clayey loam,23.999999999999986,maize
+300.0,sandy loam,25.0,jowar
+308.0,sandy loam,25.7,jowar
+316.0,sandy loam,26.4,jowar
+324.0,sandy loam,27.099999999999998,jowar
+332.0,sandy loam,27.799999999999997,jowar
+340.0,sandy loam,28.499999999999996,jowar
+348.0,sandy loam,29.199999999999996,jowar
+356.0,sandy loam,29.899999999999995,jowar
+364.0,sandy loam,30.599999999999994,jowar
+372.0,sandy loam,31.299999999999994,jowar
+380.0,sandy loam,31.999999999999993,jowar
+400.0,poor sandy,20.0,bajra
+408.0,poor sandy,21.0,bajra
+416.0,poor sandy,22.0,bajra
+424.0,poor sandy,23.0,bajra
+432.0,poor sandy,24.0,bajra
+440.0,poor sandy,25.0,bajra
+448.0,poor sandy,26.0,bajra
+456.0,poor sandy,27.0,bajra
+464.0,poor sandy,28.0,bajra
+472.0,poor sandy,29.0,bajra
+480.0,poor sandy,30.0,bajra
+400.0,red,20.0,bajra
+408.0,red,21.0,bajra
+416.0,red,22.0,bajra
+424.0,red,23.0,bajra
+432.0,red,24.0,bajra
+440.0,red,25.0,bajra
+448.0,red,26.0,bajra
+456.0,red,27.0,bajra
+464.0,red,28.0,bajra
+472.0,red,29.0,bajra
+480.0,red,30.0,bajra
+400.0,black,20.0,bajra
+408.0,black,21.0,bajra
+416.0,black,22.0,bajra
+424.0,black,23.0,bajra
+432.0,black,24.0,bajra
+440.0,black,25.0,bajra
+448.0,black,26.0,bajra
+456.0,black,27.0,bajra
+464.0,black,28.0,bajra
+472.0,black,29.0,bajra
+480.0,black,30.0,bajra
+500.0,loamy,21.0,wheat
+525.0,loamy,21.4,wheat
+550.0,loamy,21.799999999999997,wheat
+575.0,loamy,22.199999999999996,wheat
+600.0,loamy,22.599999999999994,wheat
+625.0,loamy,22.999999999999993,wheat
+650.0,loamy,23.39999999999999,wheat
+675.0,loamy,23.79999999999999,wheat
+700.0,loamy,24.19999999999999,wheat
+725.0,loamy,24.599999999999987,wheat
+750.0,loamy,24.999999999999986,wheat
+500.0,black,21.0,wheat
+525.0,black,21.4,wheat
+550.0,black,21.799999999999997,wheat
+575.0,black,22.199999999999996,wheat
+600.0,black,22.599999999999994,wheat
+625.0,black,22.999999999999993,wheat
+650.0,black,23.39999999999999,wheat
+675.0,black,23.79999999999999,wheat
+700.0,black,24.19999999999999,wheat
+725.0,black,24.599999999999987,wheat
+750.0,black,24.999999999999986,wheat
+700.0,red laterite,26.0,ragi
+750.0,red laterite,26.3,ragi
+800.0,red laterite,26.6,ragi
+850.0,red laterite,26.900000000000002,ragi
+900.0,red laterite,27.200000000000003,ragi
+950.0,red laterite,27.500000000000004,ragi
+1000.0,red laterite,27.800000000000004,ragi
+1050.0,red laterite,28.100000000000005,ragi
+1100.0,red laterite,28.400000000000006,ragi
+1150.0,red laterite,28.700000000000006,ragi
+1200.0,red laterite,29.000000000000007,ragi
+600.0,black,20.0,gram
+630.0,black,22.0,gram
+660.0,black,24.0,gram
+690.0,black,26.0,gram
+720.0,black,28.0,gram
+750.0,black,30.0,gram
+780.0,black,32.0,gram
+810.0,black,34.0,gram
+840.0,black,36.0,gram
+870.0,black,38.0,gram
+900.0,black,40.0,gram
+600.0,sandy loam,20.0,gram
+630.0,sandy loam,22.0,gram
+660.0,sandy loam,24.0,gram
+690.0,sandy loam,26.0,gram
+720.0,sandy loam,28.0,gram
+750.0,sandy loam,30.0,gram
+780.0,sandy loam,32.0,gram
+810.0,sandy loam,34.0,gram
+840.0,sandy loam,36.0,gram
+870.0,sandy loam,38.0,gram
+900.0,sandy loam,40.0,gram
+600.0,sandy loam,25.0,moong
+615.0,sandy loam,26.0,moong
+630.0,sandy loam,27.0,moong
+645.0,sandy loam,28.0,moong
+660.0,sandy loam,29.0,moong
+675.0,sandy loam,30.0,moong
+690.0,sandy loam,31.0,moong
+705.0,sandy loam,32.0,moong
+720.0,sandy loam,33.0,moong
+735.0,sandy loam,34.0,moong
+750.0,sandy loam,35.0,moong
+1000.0,sandy loam,20.0,sugarcane
+1075.0,sandy loam,20.6,sugarcane
+1150.0,sandy loam,21.200000000000003,sugarcane
+1225.0,sandy loam,21.800000000000004,sugarcane
+1300.0,sandy loam,22.400000000000006,sugarcane
+1375.0,sandy loam,23.000000000000007,sugarcane
+1450.0,sandy loam,23.60000000000001,sugarcane
+1525.0,sandy loam,24.20000000000001,sugarcane
+1600.0,sandy loam,24.80000000000001,sugarcane
+1675.0,sandy loam,25.400000000000013,sugarcane
+1750.0,sandy loam,26.000000000000014,sugarcane
+1000.0,clayey loam,20.0,sugarcane
+1075.0,clayey loam,20.6,sugarcane
+1150.0,clayey loam,21.200000000000003,sugarcane
+1225.0,clayey loam,21.800000000000004,sugarcane
+1300.0,clayey loam,22.400000000000006,sugarcane
+1375.0,clayey loam,23.000000000000007,sugarcane
+1450.0,clayey loam,23.60000000000001,sugarcane
+1525.0,clayey loam,24.20000000000001,sugarcane
+1600.0,clayey loam,24.80000000000001,sugarcane
+1675.0,clayey loam,25.400000000000013,sugarcane
+1750.0,clayey loam,26.000000000000014,sugarcane
+600.0,sandy loam,21.0,groundnut
+690.0,sandy loam,22.3,groundnut
+780.0,sandy loam,23.6,groundnut
+870.0,sandy loam,24.900000000000002,groundnut
+960.0,sandy loam,26.200000000000003,groundnut
+1050.0,sandy loam,27.500000000000004,groundnut
+1140.0,sandy loam,28.800000000000004,groundnut
+1230.0,sandy loam,30.100000000000005,groundnut
+1320.0,sandy loam,31.400000000000006,groundnut
+1410.0,sandy loam,32.7,groundnut
+1500.0,sandy loam,34.0,groundnut
+500.0,sandy loam,12.0,sunflower
+540.0,sandy loam,13.4,sunflower
+580.0,sandy loam,14.8,sunflower
+620.0,sandy loam,16.2,sunflower
+660.0,sandy loam,17.599999999999998,sunflower
+700.0,sandy loam,18.999999999999996,sunflower
+740.0,sandy loam,20.399999999999995,sunflower
+780.0,sandy loam,21.799999999999994,sunflower
+820.0,sandy loam,23.199999999999992,sunflower
+860.0,sandy loam,24.59999999999999,sunflower
+900.0,sandy loam,25.99999999999999,sunflower
+600.0,black,25.0,urad
+615.0,black,26.0,urad
+630.0,black,27.0,urad
+645.0,black,28.0,urad
+660.0,black,29.0,urad
+675.0,black,30.0,urad
+690.0,black,31.0,urad
+705.0,black,32.0,urad
+720.0,black,33.0,urad
+735.0,black,34.0,urad
+750.0,black,35.0,urad
+600.0,loamy,25.0,urad
+615.0,loamy,26.0,urad
+630.0,loamy,27.0,urad
+645.0,loamy,28.0,urad
+660.0,loamy,29.0,urad
+675.0,loamy,30.0,urad
+690.0,loamy,31.0,urad
+705.0,loamy,32.0,urad
+720.0,loamy,33.0,urad
+735.0,loamy,34.0,urad
+750.0,loamy,35.0,urad
+600.0,sandy loam,25.0,urad
+615.0,sandy loam,26.0,urad
+630.0,sandy loam,27.0,urad
+645.0,sandy loam,28.0,urad
+660.0,sandy loam,29.0,urad
+675.0,sandy loam,30.0,urad
+690.0,sandy loam,31.0,urad
+705.0,sandy loam,32.0,urad
+720.0,sandy loam,33.0,urad
+735.0,sandy loam,34.0,urad
+750.0,sandy loam,35.0,urad
+600.0,sandy loam,22.0,safflower
+630.0,sandy loam,23.2,safflower
+660.0,sandy loam,24.4,safflower
+690.0,sandy loam,25.599999999999998,safflower
+720.0,sandy loam,26.799999999999997,safflower
+750.0,sandy loam,27.999999999999996,safflower
+780.0,sandy loam,29.199999999999996,safflower
+810.0,sandy loam,30.399999999999995,safflower
+840.0,sandy loam,31.599999999999994,safflower
+870.0,sandy loam,32.8,safflower
+900.0,sandy loam,34.0,safflower
+600.0,clayey loam,22.0,safflower
+630.0,clayey loam,23.2,safflower
+660.0,clayey loam,24.4,safflower
+690.0,clayey loam,25.599999999999998,safflower
+720.0,clayey loam,26.799999999999997,safflower
+750.0,clayey loam,27.999999999999996,safflower
+780.0,clayey loam,29.199999999999996,safflower
+810.0,clayey loam,30.399999999999995,safflower
+840.0,clayey loam,31.599999999999994,safflower
+870.0,clayey loam,32.8,safflower
+900.0,clayey loam,34.0,safflower
